@@ -1,1 +1,1 @@
-![Banner](https://cdn.skillbarter.pl/banner-skillbarter.png)
+![Banner](https://static.beelliant.com/banner.png)
