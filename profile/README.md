@@ -1,1 +1,1 @@
-![Banner](https://static.beelliant.com/banner.png)
+![Banner](https://static.striwe.team/server.png)
